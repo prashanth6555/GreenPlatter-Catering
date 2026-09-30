@@ -19,7 +19,7 @@ export default function Hero() {
           <span className="gold-shimmer italic"> for every occasion.</span>
         </h1>
         <p className="mt-6 max-w-xl text-base leading-relaxed text-cream/75 sm:text-lg">
-          From candlelit weddings to rooftop galas, Maison Aurelia composes seasonal menus, impeccable service, and atmospheres guests remember for years.
+          From candlelit weddings to rooftop galas, GreenPlatter   composes seasonal menus, impeccable service, and atmospheres guests remember for years.
         </p>
         <div className="mt-10 flex flex-wrap items-center gap-4">
           <a

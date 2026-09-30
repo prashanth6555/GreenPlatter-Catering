@@ -26,7 +26,7 @@ export default function About() {
           </Reveal>
           <Reveal className="mt-6" delay="delay-2">
             <p className="max-w-xl text-base leading-relaxed text-ink/70">
-              Maison Aurelia is a chef-led catering atelier. Our kitchen sources from nearby farms at dawn, writes menus around the season, and trains every captain to host as if the celebration were their own.
+              GreenPlatter   is a chef-led catering atelier. Our kitchen sources from nearby farms at dawn, writes menus around the season, and trains every captain to host as if the celebration were their own.
             </p>
             <p className="mt-4 max-w-xl text-base leading-relaxed text-ink/70">
               Whether you need an intimate tasting dinner for twelve or a thousand-guest reception, we design the food, the flow, and the feeling — so you can be fully present.

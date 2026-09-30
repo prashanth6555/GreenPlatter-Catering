@@ -38,7 +38,7 @@ export default function Contact() {
             </p>
             <p>
               <span className="block text-xs uppercase tracking-[0.22em] text-bronze">Enquire</span>
-              hello@maisonaurelia.com · +1 (718) 555-0142
+              hello@GreenPlatter .com · +1 (718) 555-0142
             </p>
           </div>
         </Reveal>
@@ -48,7 +48,7 @@ export default function Contact() {
             <div className="rounded-3xl bg-ink p-10 text-cream">
               <p className="font-display text-4xl text-gold">Received.</p>
               <p className="mt-4 text-cream/75">
-                Thank you, {form.name || 'friend'}. A producer from Maison Aurelia will be in touch shortly.
+                Thank you, {form.name || 'friend'}. A producer from GreenPlatter   will be in touch shortly.
               </p>
               <button
                 type="button"

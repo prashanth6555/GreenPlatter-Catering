@@ -51,7 +51,7 @@ export default function Footer() {
 
       <div className="section-pad grid w-full gap-10 py-16 md:grid-cols-2 lg:grid-cols-4">
         <div className="lg:col-span-2">
-          <p className="font-display text-4xl">Maison Aurelia</p>
+          <p className="font-display text-4xl">GreenPlatter  </p>
           <p className="mt-4 max-w-md text-sm leading-relaxed text-cream/60">
             Luxury catering for weddings, private dinners, and celebrations that deserve a kitchen with a point of view.
           </p>
@@ -84,7 +84,7 @@ export default function Footer() {
       </div>
 
       <div className="section-pad flex w-full flex-col gap-4 border-t border-cream/10 py-6 text-xs text-cream/45 sm:flex-row sm:items-center sm:justify-between">
-        <p>© {new Date().getFullYear()} Maison Aurelia. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} GreenPlatter  . All rights reserved.</p>
         <a href="#home" className="inline-flex items-center gap-1 hover:text-gold">
           Back to top <ArrowUpRight size={14} />
         </a>

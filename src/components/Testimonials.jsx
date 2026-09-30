@@ -5,7 +5,7 @@ import Reveal from './Reveal'
 const stories = [
   {
     quote:
-      'Aurelia made our wedding feel like a film. Every plate arrived as if it were composed just for us, and the team never missed a cue.',
+      '  made our wedding feel like a film. Every plate arrived as if it were composed just for us, and the team never missed a cue.',
     name: 'Priya & Arjun',
     event: 'Garden wedding · 180 guests',
   },

@@ -43,7 +43,7 @@ export default function Navbar() {
           </span>
           <span>
             <span className="font-display block text-2xl leading-none tracking-wide text-cream">
-              Maison Aurelia
+              GreenPlatter  
             </span>
             <span className="text-[10px] uppercase tracking-[0.32em] text-gold/80">
               Luxury Catering
